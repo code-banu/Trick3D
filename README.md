@@ -1,9 +1,9 @@
 # Trick3D
 Transform3D
 
-![first project view](https://github.com/user-attachments/assets/34ea6c0c-8fe7-41ed-97c8-47d00cea1fb6)
+![SharedScreenshot2](https://github.com/user-attachments/assets/4621aa1f-79ff-4a23-be10-f3fb2780b1e0)
 
-- [Demo Project](https://code-banu.github.io/my-first-project/)
+- [Demo Project]( https://code-banu.github.io/Trick3D/)
 
 - Developed by Raheleh Banam
 
